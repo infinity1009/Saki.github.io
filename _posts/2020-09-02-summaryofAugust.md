@@ -15,6 +15,14 @@ comments: true
 
    摘录一句电影中多次出现的句子，"Do not go gentle into that good night"，翻译的中文是，“不要温顺的走进那个良夜”。
 
+   -------
+
+   Update
+
+   间隔了差不多一个月，电影里的细节有些忘了，上面的句子其实不是《星际穿越》原创。今天看了一篇文章，摘录一下原文（我是大自然的搬运工）。
+
+   "'Do Not Go Gentle Into That Good Night' is a poem by the Welsh poet Dylan Thomas, first published in 1951. Though the poem was dedicated to Thomas's father, it contains a universal message. The poem encourages the dying-the sick and the elderly-to fight bravely against death. The poem also celebrates the vibrancy and energy of human life, even though life is fragile and short."
+
 2. **《何以为家》**：和宝莱坞电影《摔跤吧，爸爸》、《三傻大闹宝莱坞》、《起跑线》还有国产电影《我不是药神》等一样，这是一部披露社会问题的电影。不过这部电影讲述的是发生在黎巴嫩的故事。
 
    [这篇文章](https://zhuanlan.zhihu.com/p/64318586)把电影的剧情概括的很好了…
